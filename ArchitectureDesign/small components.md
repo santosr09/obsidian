@@ -1,0 +1,2 @@
+Components should be as small as possible but no smaller [simplicity].
+Component can refer to any [[reutilizable]]/reusable software element, from an individual method to a complex framework consisting of multiple packages.

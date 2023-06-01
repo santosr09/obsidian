@@ -1,0 +1,1 @@
+JVM and the Library classes together make up the JRE. JRE when combined with Development Tools makes up JDK.

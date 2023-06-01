@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b5185d33e2f892c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1744f70c39c3e028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f18e2cb55324bb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2c6e364d6b0779d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5f975580d2d97ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b2a7200cc5b80bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d880361119ab1c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12b1ec244fa82a1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b8321f61b837e42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "right": {
+    "id": "9045600b8c2a9cee",
+    "type": "split",
+    "children": [
+      {
+        "id": "49f0e892a32f1ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b7bf4dfc463fd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f23fe863731de04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f946aaece73c5f45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7fc4f1b950da300f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f18e2cb55324bb1",
+  "lastOpenFiles": [
+    "ArchitectureDesign/Immutable.md",
+    "ArchitectureDesign/Builder.md",
+    "ArchitectureDesign/invariants.md",
+    "parameter validity.md",
+    "Java/Generics.md",
+    "Job Interviews/Tell me about yourself.md",
+    "Job Interviews/Tell us 3 questions you would ask in an interview.md",
+    "Job Interviews/Discuss a technical challenge you have faced.md",
+    "Java/Working with Streams and Lambda expressions.md",
+    "Untitled.md",
+    "Generic classes.md",
+    "Job Interviews/Key words.md",
+    "Job Interviews/Get Ready.md",
+    "Java/Java Object-Oriented Approach.md",
+    "Java/Working with Arrays and Collections.md",
+    "Templates/Exam Study.md",
+    "ArchitectureDesign/Defensive copy.md",
+    "Templates/Zettelkasten.md",
+    "ArchitectureDesign/Decorator.md",
+    "ArchitectureDesign/Creating Fluent interface.md",
+    "ArchitectureDesign/Creating destroying objects.md",
+    "ArchitectureDesign/Creating a Closed Hierarchy with sealed.md",
+    "ArchitectureDesign/Factory Method using default methods.md",
+    "ArchitectureDesign/Generics.md",
+    "Templates/Lecture Notes.md",
+    "Templates/Sources.md",
+    "Sources",
+    "ArchitectureDesign",
+    "Templates",
+    "Effective Java",
+    "Linux",
+    "Job Interviews/Untitled",
+    "Job Interviews",
+    "Patterns",
+    "React",
+    "OOP"
+  ]
+}

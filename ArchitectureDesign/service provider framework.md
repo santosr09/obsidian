@@ -1,0 +1,1 @@
+ A service provider framework is a system in which providers implement a service, and the system makes the implementations available to clients, decoupling the clients from the implementations
