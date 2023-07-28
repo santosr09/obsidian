@@ -1,7 +1,12 @@
 ## Exam Objective: {{title}}
 
+## Prerequisites:
+- 
 
 ## Main Points
+- 
+
+## Exam to take
 - 
 
 ## Summary

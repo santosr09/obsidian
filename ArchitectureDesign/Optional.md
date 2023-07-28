@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/73424610/optionalt-as-a-record-parameter-in-java
+
 NULL is a smell
 Avoid null in the code
 A good design reads like a story and not like a puzzle

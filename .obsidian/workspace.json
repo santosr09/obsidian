@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1744f70c39c3e028",
+        "id": "fc568675e3ee5202",
         "type": "tabs",
         "children": [
           {
-            "id": "8f18e2cb55324bb1",
+            "id": "26a9b6b8d65ee7ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ArchitectureDesign/Fundamentals of Software.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ArchitectureDesign/Fundamentals of Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ArchitectureDesign/Fundamentals of Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ArchitectureDesign/Fundamentals of Software.md"
+              }
             }
           }
         ]
@@ -146,10 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f18e2cb55324bb1",
+  "active": "5d880361119ab1c5",
   "lastOpenFiles": [
-    "ArchitectureDesign/Immutable.md",
+    "ArchitectureDesign/Fundamentals of Software.md",
+    "Templates/Lecture Notes.md",
+    "Templates/Zettelkasten.md",
+    "Certification study/AZ-204 Azure Developer Associate.md",
+    "Certification study/AZ-900 Azure Fundamentals.md",
+    "Certification study/AZ-104 Azure Administrator Associate.md",
+    "ArchitectureDesign/Optional.md",
+    "Certification study/AZ-400 DevOps Engineer Expert.md",
+    "Templates/Exam Study.md",
+    "Certification study",
     "ArchitectureDesign/Builder.md",
+    "ArchitectureDesign/Immutable.md",
     "ArchitectureDesign/invariants.md",
     "parameter validity.md",
     "Java/Generics.md",
@@ -163,17 +182,8 @@
     "Job Interviews/Get Ready.md",
     "Java/Java Object-Oriented Approach.md",
     "Java/Working with Arrays and Collections.md",
-    "Templates/Exam Study.md",
     "ArchitectureDesign/Defensive copy.md",
-    "Templates/Zettelkasten.md",
     "ArchitectureDesign/Decorator.md",
-    "ArchitectureDesign/Creating Fluent interface.md",
-    "ArchitectureDesign/Creating destroying objects.md",
-    "ArchitectureDesign/Creating a Closed Hierarchy with sealed.md",
-    "ArchitectureDesign/Factory Method using default methods.md",
-    "ArchitectureDesign/Generics.md",
-    "Templates/Lecture Notes.md",
-    "Templates/Sources.md",
     "Sources",
     "ArchitectureDesign",
     "Templates",
@@ -182,7 +192,6 @@
     "Job Interviews/Untitled",
     "Job Interviews",
     "Patterns",
-    "React",
-    "OOP"
+    "React"
   ]
 }
