@@ -4,23 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "fc568675e3ee5202",
+        "id": "42ec3422fc3806a4",
         "type": "tabs",
         "children": [
           {
-            "id": "26a9b6b8d65ee7ff",
+            "id": "a6af32262de482a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchitectureDesign/Fundamentals of Software.md",
+                "file": "Books/Foundations of scalable systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5202f56b88ae1c3",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "ArchitectureDesign/Fundamentals of Software.md",
+                "staged": false,
+                "hash": "a18ffddc0e329a113178f078e95eb349634b7f15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArchitectureDesign/Fundamentals of Software.md",
+                "file": "Books/Foundations of scalable systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArchitectureDesign/Fundamentals of Software.md",
+                "file": "Books/Foundations of scalable systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,15 +148,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchitectureDesign/Fundamentals of Software.md"
+                "file": "Books/Foundations of scalable systems.md"
               }
             }
+          },
+          {
+            "id": "0341729794b1ed28",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,33 +179,34 @@
   },
   "active": "5d880361119ab1c5",
   "lastOpenFiles": [
-    "ArchitectureDesign/Fundamentals of Software.md",
+    "Freshman.md",
+    "Books/Foundations of scalable systems.md",
     "Templates/Lecture Notes.md",
+    "Books",
+    "Templates/Exam Study.md",
+    "Java/Java Object-Oriented Approach.md",
     "Templates/Zettelkasten.md",
+    "Templates/Sources.md",
+    "ArchitectureDesign/Decorator.md",
+    "ArchitectureDesign/Optional.md",
+    "Java/Generics.md",
+    "parameter validity.md",
+    "Java/Working with Arrays and Collections.md",
+    "Java/JDK JRE JVM.md",
     "Certification study/AZ-204 Azure Developer Associate.md",
     "Certification study/AZ-900 Azure Fundamentals.md",
-    "Certification study/AZ-104 Azure Administrator Associate.md",
-    "ArchitectureDesign/Optional.md",
     "Certification study/AZ-400 DevOps Engineer Expert.md",
-    "Templates/Exam Study.md",
+    "ArchitectureDesign/simplicity.md",
+    "ArchitectureDesign/small components.md",
+    "ArchitectureDesign/Strategy pattern.md",
+    "ArchitectureDesign/Fundamentals of Software.md",
+    "Certification study/AZ-104 Azure Administrator Associate.md",
     "Certification study",
     "ArchitectureDesign/Builder.md",
     "ArchitectureDesign/Immutable.md",
     "ArchitectureDesign/invariants.md",
-    "parameter validity.md",
-    "Java/Generics.md",
     "Job Interviews/Tell me about yourself.md",
     "Job Interviews/Tell us 3 questions you would ask in an interview.md",
-    "Job Interviews/Discuss a technical challenge you have faced.md",
-    "Java/Working with Streams and Lambda expressions.md",
-    "Untitled.md",
-    "Generic classes.md",
-    "Job Interviews/Key words.md",
-    "Job Interviews/Get Ready.md",
-    "Java/Java Object-Oriented Approach.md",
-    "Java/Working with Arrays and Collections.md",
-    "ArchitectureDesign/Defensive copy.md",
-    "ArchitectureDesign/Decorator.md",
     "Sources",
     "ArchitectureDesign",
     "Templates",
@@ -191,7 +214,6 @@
     "Linux",
     "Job Interviews/Untitled",
     "Job Interviews",
-    "Patterns",
-    "React"
+    "Patterns"
   ]
 }
