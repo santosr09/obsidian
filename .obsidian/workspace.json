@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "34307105f89700ea",
         "type": "tabs",
         "children": [
           {
             "id": "f81c69c05781d125",
+=======
+        "id": "42ec3422fc3806a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6af32262de482a5",
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "aws/SAA-C03/SAA-C03.md",
+=======
+                "file": "Books/Foundations of scalable systems.md",
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +33,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "02dd458c01eba805",
             "type": "leaf",
             "state": {
@@ -30,6 +43,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+=======
+            "id": "a5202f56b88ae1c3",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "ArchitectureDesign/Fundamentals of Software.md",
+                "staged": false,
+                "hash": "a18ffddc0e329a113178f078e95eb349634b7f15"
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
               }
             }
           }
@@ -108,7 +131,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "CICD/FLyway DB.md",
+=======
+                "file": "Books/Foundations of scalable systems.md",
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +152,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "CICD/FLyway DB.md",
+=======
+                "file": "Books/Foundations of scalable systems.md",
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +179,29 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "CICD/FLyway DB.md"
               }
+=======
+                "file": "Books/Foundations of scalable systems.md"
+              }
+            }
+          },
+          {
+            "id": "0341729794b1ed28",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "02dd458c01eba805",
   "lastOpenFiles": [
     "Templates/Zettelkasten.md",
@@ -206,5 +252,45 @@
     "ArchitectureDesign",
     "Templates",
     "Effective Java"
+=======
+  "active": "5d880361119ab1c5",
+  "lastOpenFiles": [
+    "Freshman.md",
+    "Books/Foundations of scalable systems.md",
+    "Templates/Lecture Notes.md",
+    "Books",
+    "Templates/Exam Study.md",
+    "Java/Java Object-Oriented Approach.md",
+    "Templates/Zettelkasten.md",
+    "Templates/Sources.md",
+    "ArchitectureDesign/Decorator.md",
+    "ArchitectureDesign/Optional.md",
+    "Java/Generics.md",
+    "parameter validity.md",
+    "Java/Working with Arrays and Collections.md",
+    "Java/JDK JRE JVM.md",
+    "Certification study/AZ-204 Azure Developer Associate.md",
+    "Certification study/AZ-900 Azure Fundamentals.md",
+    "Certification study/AZ-400 DevOps Engineer Expert.md",
+    "ArchitectureDesign/simplicity.md",
+    "ArchitectureDesign/small components.md",
+    "ArchitectureDesign/Strategy pattern.md",
+    "ArchitectureDesign/Fundamentals of Software.md",
+    "Certification study/AZ-104 Azure Administrator Associate.md",
+    "Certification study",
+    "ArchitectureDesign/Builder.md",
+    "ArchitectureDesign/Immutable.md",
+    "ArchitectureDesign/invariants.md",
+    "Job Interviews/Tell me about yourself.md",
+    "Job Interviews/Tell us 3 questions you would ask in an interview.md",
+    "Sources",
+    "ArchitectureDesign",
+    "Templates",
+    "Effective Java",
+    "Linux",
+    "Job Interviews/Untitled",
+    "Job Interviews",
+    "Patterns"
+>>>>>>> ced174788865b309bc992f98faaae778e71c9c3a
   ]
 }
