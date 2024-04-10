@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1744f70c39c3e028",
+        "id": "34307105f89700ea",
         "type": "tabs",
         "children": [
           {
-            "id": "8f18e2cb55324bb1",
+            "id": "f81c69c05781d125",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "aws/SAA-C03/SAA-C03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02dd458c01eba805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CICD/FLyway DB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CICD/FLyway DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CICD/FLyway DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CICD/FLyway DB.md"
+              }
             }
           }
         ]
@@ -146,43 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f18e2cb55324bb1",
+  "active": "02dd458c01eba805",
   "lastOpenFiles": [
-    "ArchitectureDesign/Immutable.md",
+    "Templates/Zettelkasten.md",
+    "Templates/Sources.md",
+    "Templates/Lecture Notes.md",
+    "Templates/Exam Study.md",
+    "CICD/FLyway DB.md",
+    "Arduino/Notes.md",
+    "CICD",
+    "aws/SAA-C03/SAA-C03.md",
+    "Obsidian-1.5.12.AppImage",
+    "Unconfirmed 487221.crdownload",
+    "Arduino",
+    "Java/Generics.md",
+    "ArchitectureDesign/Defensive copy.md",
+    "Java/Working with Arrays and Collections.md",
+    "Java/JDK JRE JVM.md",
+    "Java/Java Object-Oriented Approach.md",
+    "ArchitectureDesign/Factory Method using default methods.md",
+    "ArchitectureDesign/Creating destroying objects.md",
+    "ArchitectureDesign/Creating a Closed Hierarchy with sealed.md",
+    "ArchitectureDesign/CQRS Event sourcing.md",
     "ArchitectureDesign/Builder.md",
+    "aws/SAA-C03",
+    "aws",
+    "ArchitectureDesign/Immutable.md",
     "ArchitectureDesign/invariants.md",
     "parameter validity.md",
-    "Java/Generics.md",
     "Job Interviews/Tell me about yourself.md",
     "Job Interviews/Tell us 3 questions you would ask in an interview.md",
     "Job Interviews/Discuss a technical challenge you have faced.md",
     "Java/Working with Streams and Lambda expressions.md",
     "Untitled.md",
     "Generic classes.md",
-    "Job Interviews/Key words.md",
-    "Job Interviews/Get Ready.md",
-    "Java/Java Object-Oriented Approach.md",
-    "Java/Working with Arrays and Collections.md",
-    "Templates/Exam Study.md",
-    "ArchitectureDesign/Defensive copy.md",
-    "Templates/Zettelkasten.md",
-    "ArchitectureDesign/Decorator.md",
-    "ArchitectureDesign/Creating Fluent interface.md",
-    "ArchitectureDesign/Creating destroying objects.md",
-    "ArchitectureDesign/Creating a Closed Hierarchy with sealed.md",
-    "ArchitectureDesign/Factory Method using default methods.md",
-    "ArchitectureDesign/Generics.md",
-    "Templates/Lecture Notes.md",
-    "Templates/Sources.md",
     "Sources",
     "ArchitectureDesign",
     "Templates",
-    "Effective Java",
-    "Linux",
-    "Job Interviews/Untitled",
-    "Job Interviews",
-    "Patterns",
-    "React",
-    "OOP"
+    "Effective Java"
   ]
 }
