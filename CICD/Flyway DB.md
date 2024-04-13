@@ -10,3 +10,8 @@ Within a single migration run, repeatable migrations are always applied last, af
 
 [Project example](https://dzone.com/articles/how-to-use-flyway-for-database-migration-in-spring)
 
+[[How Flyway Works]]
+
+[[Naming convention for migration scripts]]
+
+[[Flyway using MVN plugin]]
